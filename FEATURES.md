@@ -6,7 +6,7 @@ WD-XL 滑油字已经设置部分 OpenType 功能：
 WD-XL Lubrifont has set up multiple OpenType features as follow:  
 WD-XL 滑油字已經設置部分 OpenType 功能：
 
-## `vert` / `vrt2` —
+## `vert` / `vrt2` — Vertical Alternates
 
 本字体为直式排版设计和设置了标点转换功能，其中包括：  
 This font has designed and set up vertical typesetting punctuations including:  
@@ -27,8 +27,8 @@ This feature is turned on automatically, users do not need to set up the setting
 
 ## `ss01` — Stylistic Set 01
 
-为了匹配其他字符的设计，因此本龙为该字体设计了另外一款 `X` 的字形 (glyph)。
-To match with the design of other characters, another glyph is designed for `X`.
+为了匹配其他字符的设计，因此本龙为该字体设计了另外一款 `X` 的字形 (glyph)。  
+To match with the design of other characters, another glyph is designed for `X`.  
 爲了匹配其他字符的設計，因此本龍爲該字型設計了另外一款 `X` 的字形 (glyph)。
 
 ![Sample of ss01](ss01.png)
@@ -78,8 +78,8 @@ This font has included a few technical tests including Simplified/Traditional fo
 Most software do not support this function, only browsers are able to set this feature through CSS.  
 目前多數軟體不支援該功能，僅瀏覽器可以通過 CSS 設置該功能。
 
-## `aalt` —
+## `aalt` — Access All Alternates
 
-以上所有功能（除了 `liga`）皆可通过 `aalt` 功能使用，因此 `smpl`/`trad` 的字符替换选择也可以在 Adobe 系列软件内测试使用。  
+以上所有功能（除了 `liga` 和 `dlig`）皆可通过 `aalt` 功能使用，因此 `smpl`/`trad` 的字符替换选择也可以在 Adobe 系列软件内测试使用。  
 All the features above (except `liga`) can be access through `aalt`, thus the character choice from `smpl`/`trad` can still be accessed in Adobe suite through this function.  
-以上所有功能（除了 `liga`）皆可通過 `aalt` 功能使用，因此 `smpl`/`trad` 的字符替换選擇也可以在 Adobe 系列軟體內測試使用。
+以上所有功能（除了 `liga` 和 `dlig`）皆可通過 `aalt` 功能使用，因此 `smpl`/`trad` 的字符替换選擇也可以在 Adobe 系列軟體內測試使用。
