@@ -15,7 +15,7 @@ This font is based on [ZCOOL QingKe HuangYou](https://www.github.com/googlefonts
 ## 下载 Download 下載
 
 **SC** : 简体中文版/Simplified Chinese/簡體中文版  
-**SC** : 繁体（正体）中文版/Traditional Chinese/繁體（正體）中文版
+**TC** : 繁体（正体）中文版/Traditional Chinese/繁體（正體）中文版
 
 请前往 **[发布页](https://github.com/NightFurySL2001/WD-XL-font/releases)** 下载 WD-XL 滑油字 的最新版本。  
 Please visit **[Release page](https://github.com/NightFurySL2001/WD-XL-font/releases)** to download the latest version of WD-XL Lubrifont.  
