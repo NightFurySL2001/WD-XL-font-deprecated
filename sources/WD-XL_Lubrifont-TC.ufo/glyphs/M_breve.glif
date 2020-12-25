@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mbreve" format="2">
+  <advance width="617"/>
+  <outline>
+    <component base="M"/>
+    <component base="brevecomb" xOffset="444" yOffset="143"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= M + brevecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

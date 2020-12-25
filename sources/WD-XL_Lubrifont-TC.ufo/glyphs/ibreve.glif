@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="2">
+  <advance width="252"/>
+  <unicode hex="012D"/>
+  <outline>
+    <component base="dotlessi" xOffset="20"/>
+    <component base="brevecomb" xOffset="261" yOffset="-82"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= dotlessi + brevecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="272"/>
+  <unicode hex="00CE"/>
+  <anchor x="136" y="927" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflexcomb" xOffset="245" yOffset="178"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= I + circumflexcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

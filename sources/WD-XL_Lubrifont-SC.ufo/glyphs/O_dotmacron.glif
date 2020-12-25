@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odotmacron" format="2">
+  <advance width="496"/>
+  <unicode hex="0230"/>
+  <outline>
+    <component base="Omacron"/>
+    <component base="dotaboverightcomb" xOffset="523" yOffset="55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= Omacron + dotaboverightcomb@Odot</string>
+  </dict>
+  </lib>
+</glyph>

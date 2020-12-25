@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncircumflex" format="2">
+  <advance width="505"/>
+  <anchor x="253" y="927" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="circumflexcomb" xOffset="362" yOffset="178"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= N + circumflexcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odot" format="2">
+  <advance width="496"/>
+  <unicode hex="022E"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotaboverightcomb" xOffset="523" yOffset="55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= O + dotaboverightcomb@Odot</string>
+  </dict>
+  </lib>
+</glyph>

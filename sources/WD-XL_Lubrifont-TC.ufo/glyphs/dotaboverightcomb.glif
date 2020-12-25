@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaboverightcomb" format="2">
+  <unicode hex="0358"/>
+  <anchor x="-61" y="698" name="_Odot"/>
+  <anchor x="-61" y="573" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="-1"/>
+  </outline>
+</glyph>

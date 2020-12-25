@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acaron" format="2">
+  <advance width="438"/>
+  <unicode hex="01CE"/>
+  <outline>
+    <component base="a"/>
+    <component base="caroncomb" xOffset="342" yOffset="-81"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= a + caroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

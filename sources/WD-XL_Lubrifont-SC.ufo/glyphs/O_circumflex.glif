@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="496"/>
+  <unicode hex="00D4"/>
+  <anchor x="462" y="753" name="Odot"/>
+  <anchor x="248" y="927" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcomb" xOffset="357" yOffset="178"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= O + circumflexcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

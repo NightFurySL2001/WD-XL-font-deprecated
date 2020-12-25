@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ovline" format="2">
+  <advance width="427"/>
+  <anchor x="409" y="525" name="Odot"/>
+  <outline>
+    <component base="o"/>
+    <component base="vlinecomb" xOffset="261" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= o + vlinecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

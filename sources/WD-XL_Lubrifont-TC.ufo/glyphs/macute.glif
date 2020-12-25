@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macute" format="2">
+  <advance width="592"/>
+  <unicode hex="1E3F"/>
+  <outline>
+    <component base="m"/>
+    <component base="acutecomb" xOffset="378" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= m + acutecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

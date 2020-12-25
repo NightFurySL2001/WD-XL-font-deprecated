@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="2">
+  <advance width="427"/>
+  <unicode hex="014F"/>
+  <anchor x="409" y="525" name="Odot"/>
+  <outline>
+    <component base="o"/>
+    <component base="brevecomb" xOffset="349" yOffset="-82"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= o + brevecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

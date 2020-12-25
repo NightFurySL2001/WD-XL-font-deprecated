@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ahungarumlaut" format="2">
+  <advance width="438"/>
+  <outline>
+    <component base="a"/>
+    <component base="hungarumlautcomb" xOffset="355" yOffset="-64"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= a + hungarumlautcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

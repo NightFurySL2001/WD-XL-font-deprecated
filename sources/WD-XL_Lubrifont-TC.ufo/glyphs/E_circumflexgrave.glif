@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexgrave" format="2">
+  <advance width="485"/>
+  <unicode hex="1EC0"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb" xOffset="357" yOffset="178"/>
+    <component base="gravecomb" xOffset="308" yOffset="387"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= E + circumflexcomb@top + gravecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

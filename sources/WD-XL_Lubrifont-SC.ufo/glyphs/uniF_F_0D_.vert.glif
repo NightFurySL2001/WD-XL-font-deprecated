@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF0D.vert" format="2">
+  <advance width="765"/>
+  <outline>
+    <component base="uniFF0D" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="46" yOffset="735"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mcaron" format="2">
+  <advance width="617"/>
+  <outline>
+    <component base="M"/>
+    <component base="caroncomb" xOffset="437" yOffset="144"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= M + caroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

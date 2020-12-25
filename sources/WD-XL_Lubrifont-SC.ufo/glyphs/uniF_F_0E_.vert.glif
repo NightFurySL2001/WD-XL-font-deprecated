@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF0E.vert" format="2">
+  <advance width="765"/>
+  <outline>
+    <component base="uniFF0E" xOffset="483" yOffset="754"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uniFF0E</string>
+  </dict>
+  </lib>
+</glyph>

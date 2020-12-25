@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="2">
+  <advance width="212"/>
+  <unicode hex="00EE"/>
+  <anchor x="106" y="702" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="circumflexcomb" xOffset="215" yOffset="-47"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= dotlessi + circumflexcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

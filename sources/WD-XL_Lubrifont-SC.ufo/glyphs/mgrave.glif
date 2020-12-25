@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mgrave" format="2">
+  <advance width="592"/>
+  <outline>
+    <component base="m"/>
+    <component base="gravecomb" xOffset="356" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= m + gravecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nmacron" format="2">
+  <advance width="447"/>
+  <outline>
+    <component base="n"/>
+    <component base="macroncomb" xOffset="394" yOffset="-128"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= n + macroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

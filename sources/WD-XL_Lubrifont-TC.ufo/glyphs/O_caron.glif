@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="2">
+  <advance width="496"/>
+  <unicode hex="01D1"/>
+  <anchor x="462" y="753" name="Odot"/>
+  <outline>
+    <component base="O"/>
+    <component base="caroncomb" xOffset="376" yOffset="144"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= O + caroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

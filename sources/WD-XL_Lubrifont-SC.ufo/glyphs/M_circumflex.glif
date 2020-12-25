@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mcircumflex" format="2">
+  <advance width="617"/>
+  <anchor x="309" y="927" name="top"/>
+  <outline>
+    <component base="M"/>
+    <component base="circumflexcomb" xOffset="418" yOffset="178"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= M + circumflexcomb@top</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mvline" format="2">
+  <advance width="592"/>
+  <outline>
+    <component base="m"/>
+    <component base="vlinecomb" xOffset="343" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= m + vlinecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

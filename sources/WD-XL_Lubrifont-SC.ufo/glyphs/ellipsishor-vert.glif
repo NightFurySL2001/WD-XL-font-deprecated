@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsishor-vert" format="2">
+  <advance width="765"/>
+  <unicode hex="FE19"/>
+  <outline>
+    <component base="period" xOffset="292" yOffset="470"/>
+    <component base="period" xOffset="292" yOffset="250"/>
+    <component base="period" xOffset="291" yOffset="30"/>
+  </outline>
+</glyph>

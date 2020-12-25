@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odotvline" format="2">
+  <advance width="496"/>
+  <outline>
+    <component base="Ovline"/>
+    <component base="dotaboverightcomb" xOffset="523" yOffset="55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= Ovline + dotaboverightcomb@Odot</string>
+  </dict>
+  </lib>
+</glyph>

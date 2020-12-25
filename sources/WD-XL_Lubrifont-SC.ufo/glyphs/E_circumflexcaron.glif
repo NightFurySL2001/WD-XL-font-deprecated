@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexcaron" format="2">
+  <advance width="485"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb" xOffset="357" yOffset="178"/>
+    <component base="caroncomb" xOffset="376" yOffset="361"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= E + circumflexcomb@top + caroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nbreve" format="2">
+  <advance width="447"/>
+  <outline>
+    <component base="n"/>
+    <component base="brevecomb" xOffset="359" yOffset="-82"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= n + brevecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

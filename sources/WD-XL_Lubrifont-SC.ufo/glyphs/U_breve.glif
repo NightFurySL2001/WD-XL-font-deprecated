@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="2">
+  <advance width="496"/>
+  <unicode hex="016C"/>
+  <outline>
+    <component base="U"/>
+    <component base="brevecomb" xOffset="383" yOffset="143"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= U + brevecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

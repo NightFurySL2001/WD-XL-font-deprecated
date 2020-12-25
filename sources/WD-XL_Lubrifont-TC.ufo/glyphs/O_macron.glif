@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="2">
+  <advance width="496"/>
+  <unicode hex="014C"/>
+  <anchor x="462" y="753" name="Odot"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb" xOffset="418" yOffset="97"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= O + macroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

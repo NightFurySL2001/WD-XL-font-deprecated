@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexmacron" format="2">
+  <advance width="425"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexcomb" xOffset="322" yOffset="-47"/>
+    <component base="macroncomb" xOffset="383" yOffset="89"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= e + circumflexcomb@top + macroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

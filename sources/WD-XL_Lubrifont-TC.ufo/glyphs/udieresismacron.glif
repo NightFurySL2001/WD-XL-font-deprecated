@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresismacron" format="2">
+  <advance width="446"/>
+  <unicode hex="01D6"/>
+  <anchor x="223" y="636" name="_top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb" xOffset="365" yOffset="-89"/>
+    <component base="macroncomb" xOffset="393" yOffset="23"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= u + dieresiscomb@top + macroncomb@top</string>
+  </dict>
+  </lib>
+</glyph>

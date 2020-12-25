@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ngrave" format="2">
+  <advance width="505"/>
+  <unicode hex="01F8"/>
+  <outline>
+    <component base="N"/>
+    <component base="gravecomb" xOffset="313" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= N + gravecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

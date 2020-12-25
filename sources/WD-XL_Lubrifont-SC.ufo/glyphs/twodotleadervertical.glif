@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotleadervertical" format="2">
+  <advance width="765"/>
+  <unicode hex="FE30"/>
+  <outline>
+    <component base="period" xOffset="292" yOffset="435"/>
+    <component base="period" xOffset="291" yOffset="65"/>
+  </outline>
+</glyph>

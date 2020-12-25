@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nvline" format="2">
+  <advance width="447"/>
+  <outline>
+    <component base="n"/>
+    <component base="vlinecomb" xOffset="271" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= n + vlinecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

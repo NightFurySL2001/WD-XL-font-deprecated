@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ivline" format="2">
+  <advance width="212"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="vlinecomb" xOffset="153" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= dotlessi + vlinecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

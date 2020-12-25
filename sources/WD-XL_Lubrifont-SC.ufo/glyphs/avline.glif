@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="avline" format="2">
+  <advance width="438"/>
+  <outline>
+    <component base="a"/>
+    <component base="vlinecomb" xOffset="261" yOffset="-55"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>= a + vlinecomb@top</string>
+  </dict>
+  </lib>
+</glyph>
