@@ -656,6 +656,8 @@
   <string>elcyr.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
+  <key>ellipsis.ss18</key>
+  <string>ellipsis.ss18.glif</string>
   <key>ellipsishor-vert</key>
   <string>ellipsishor-vert.glif</string>
   <key>emacron</key>
@@ -1130,6 +1132,8 @@
   <string>period.glif</string>
   <key>periodcentered</key>
   <string>periodcentered.glif</string>
+  <key>periodcentered.ss18</key>
+  <string>periodcentered.ss18.glif</string>
   <key>perthousand</key>
   <string>perthousand.glif</string>
   <key>phi</key>
@@ -1302,6 +1306,8 @@
   <string>u240B_D_.glif</string>
   <key>u27B28</key>
   <string>u27B_28.glif</string>
+  <key>u2BAC7</key>
+  <string>u2B_A_C_7.glif</string>
   <key>u2CFA0</key>
   <string>u2C_F_A_0.glif</string>
   <key>uacute</key>
@@ -3924,6 +3930,8 @@
   <string>uni563B_.glif</string>
   <key>uni563F</key>
   <string>uni563F_.glif</string>
+  <key>uni5641</key>
+  <string>uni5641.glif</string>
   <key>uni564C</key>
   <string>uni564C_.glif</string>
   <key>uni564D</key>
@@ -12510,6 +12518,8 @@
   <string>uni7C_0F_.glif</string>
   <key>uni7C11</key>
   <string>uni7C_11.glif</string>
+  <key>uni7C12</key>
+  <string>uni7C_12.glif</string>
   <key>uni7C16</key>
   <string>uni7C_16.glif</string>
   <key>uni7C1E</key>
@@ -17482,6 +17492,8 @@
   <string>uni9036.glif</string>
   <key>uni9038</key>
   <string>uni9038.glif</string>
+  <key>uni9039</key>
+  <string>uni9039.glif</string>
   <key>uni903B</key>
   <string>uni903B_.glif</string>
   <key>uni903C</key>

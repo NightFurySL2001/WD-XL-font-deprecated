@@ -1863,6 +1863,7 @@
     <string>uni5639</string>
     <string>uni563B</string>
     <string>uni563F</string>
+    <string>uni5641</string>
     <string>uni564C</string>
     <string>uni564D</string>
     <string>uni564E</string>
@@ -6156,6 +6157,7 @@
     <string>uni7C0D</string>
     <string>uni7C0F</string>
     <string>uni7C11</string>
+    <string>uni7C12</string>
     <string>uni7C16</string>
     <string>uni7C1E</string>
     <string>uni7C1F</string>
@@ -8642,6 +8644,7 @@
     <string>uni9035</string>
     <string>uni9036</string>
     <string>uni9038</string>
+    <string>uni9039</string>
     <string>uni903B</string>
     <string>uni903C</string>
     <string>uni903E</string>
@@ -10584,10 +10587,13 @@
     <string>replacementchar</string>
     <string>u240BD</string>
     <string>u27B28</string>
+    <string>u2BAC7</string>
     <string>u2CFA0</string>
     <string>X.ss01</string>
     <string>currency.full</string>
+    <string>periodcentered.ss18</string>
     <string>uni2015.vert</string>
+    <string>ellipsis.ss18</string>
     <string>uni3013.vert</string>
     <string>uniFF0D.vert</string>
     <string>uniFF0E.vert</string>

@@ -210,4 +210,10 @@ feature dlig {
 
 	sub n g by eng;
 	sub N G by Eng;
+	sub Z [H h] by Zcircumflex;
+	sub z h by zcircumflex;
+	sub C [H h] by Ccircumflex;
+	sub c h by ccircumflex;
+	sub S [H h] by Scircumflex;
+	sub s h by scircumflex;
 } dlig;

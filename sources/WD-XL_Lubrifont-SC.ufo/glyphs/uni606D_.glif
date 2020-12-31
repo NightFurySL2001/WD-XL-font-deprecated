@@ -170,10 +170,14 @@
       <point x="386" y="338"/>
       <point x="406" y="318"/>
       <point x="406" y="304" type="qcurve" smooth="yes"/>
-      <point x="406" y="-69" type="line" smooth="yes"/>
-      <point x="406" y="-83"/>
-      <point x="386" y="-104"/>
-      <point x="371" y="-104" type="qcurve" smooth="yes"/>
+      <point x="406" y="1" type="line" smooth="yes"/>
+      <point x="406" y="-15"/>
+      <point x="392" y="-48"/>
+      <point x="381" y="-59" type="qcurve" smooth="yes"/>
+      <point x="361" y="-79" type="line" smooth="yes"/>
+      <point x="350" y="-90"/>
+      <point x="317" y="-104"/>
+      <point x="301" y="-104" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="83" y="-104" type="line" smooth="yes"/>

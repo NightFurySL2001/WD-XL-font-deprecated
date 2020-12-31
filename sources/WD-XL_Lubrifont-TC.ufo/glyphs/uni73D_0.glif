@@ -17,15 +17,19 @@
       <point x="687" y="236"/>
       <point x="707" y="216"/>
       <point x="707" y="202" type="qcurve" smooth="yes"/>
-      <point x="707" y="-69" type="line" smooth="yes"/>
-      <point x="707" y="-83"/>
-      <point x="687" y="-104"/>
-      <point x="672" y="-104" type="qcurve" smooth="yes"/>
+      <point x="707" y="0" type="line" smooth="yes"/>
+      <point x="707" y="-16"/>
+      <point x="693" y="-49"/>
+      <point x="682" y="-60" type="qcurve" smooth="yes"/>
+      <point x="663" y="-79" type="line" smooth="yes"/>
+      <point x="652" y="-90"/>
+      <point x="619" y="-104"/>
+      <point x="603" y="-104" type="qcurve" smooth="yes"/>
       <point x="336" y="-104" type="line" smooth="yes"/>
       <point x="321" y="-104"/>
       <point x="300" y="-83"/>
       <point x="300" y="-69" type="qcurve" smooth="yes"/>
-      <point x="300" y="-27" type="line" smooth="yes"/>
+      <point x="300" y="-27" type="line"/>
       <point x="301" y="8"/>
       <point x="308" y="41" type="qcurve" smooth="yes"/>
       <point x="361" y="305" type="line" smooth="yes"/>

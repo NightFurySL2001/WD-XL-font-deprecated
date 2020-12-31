@@ -7,9 +7,9 @@ This is the public repository for **WD-XL Librifont**. Source files and history 
 
 ## 目标 Target 目標
 
-本字体是在[站酷庆科黄油体](https://www.github.com/googlefonts/zcool-qingke-huangyou)的基础上为繁体（正体）中文进行补字扩充，让其能够适配繁体（正体）中文环境，并且也补全标准中文字体所需的标点符号和功能。  
+本字体是在[站酷庆科黄油体](https://www.github.com/googlefonts/zcool-qingke-huangyou)的基础上为繁体（正体）中文进行补字扩充，让其能够适配繁体（正体）中文环境，并且也补全标准中文字体所需的标点符号和功能。目前已经补充至五大码 (Big5) 5401 字，完整支援台湾教育部常用汉字表 4808 字。  
 This font is based on [ZCOOL QingKe HuangYou](https://www.github.com/googlefonts/zcool-qingke-huangyou) and further expanded for Chinese (Traditional) such that this font may be used in Chinese (Traditional) environment in a suitable manner, and also expanded with the required symbols and punctuations for Chinese typesetting.  
-本字型是在[站酷慶科黃油體](https://www.github.com/googlefonts/zcool-qingke-huangyou)的基礎上爲繁體（正體）中文進行補字擴充，讓其能夠適配繁體（正體）環境，並且也補全標準中文字體所需的標點符號和功能。
+本字型是在[站酷慶科黃油體](https://www.github.com/googlefonts/zcool-qingke-huangyou)的基礎上爲繁體（正體）中文進行補字擴充，讓其能夠適配繁體（正體）環境，並且也補全標準中文字體所需的標點符號和功能。目前已經補充至五大碼 (Big5) 5401 字，完整支援臺灣敎育部常用漢字表 4808 字。  
 
 
 ## 下载 Download 下載
@@ -81,9 +81,10 @@ It's 25 December 2020, and thus we wish you a Merry Christmas!
 ## 致谢 Thanks 致謝
 
 - 郑庆科 ——— 原字体作者
-- [@davelab6](https://github.com/davelab6) 及 Google Fonts 团队 —— Conversion of font to SIL OFL
+- [@davelab6](https://github.com/davelab6) and Google Fonts team —— Conversion of font to SIL OFL
 - 曾國榕及 But Ko ([@ButTaiwan](https://github.com/ButTaiwan)) —— 技術支援
-- Zonz 及 Alpha_Argon —— 品质监督
+- Zonz 及 Alpha_Argon —— 品质监督指导
+- Henry Chan —— 技術顧問及監督
 - [@aiongg](https://github.com/aiongg/) —— [POJFonts](https://github.com/aiongg/POJFonts) 技術參考
 
 ## 专页链接 Display page 專頁鏈接

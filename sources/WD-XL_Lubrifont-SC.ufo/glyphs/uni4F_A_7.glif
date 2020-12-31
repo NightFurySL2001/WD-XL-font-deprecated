@@ -27,11 +27,12 @@
       <point x="153" y="814"/>
       <point x="174" y="794"/>
       <point x="174" y="780" type="qcurve" smooth="yes"/>
-      <point x="174" y="514" type="line" smooth="yes"/>
-      <point x="174" y="479"/>
-      <point x="164" y="479" type="qcurve" smooth="yes"/>
-      <point x="161" y="479"/>
-      <point x="156" y="457"/>
+      <point x="174" y="552" type="line" smooth="yes"/>
+      <point x="174" y="535"/>
+      <point x="168" y="506"/>
+      <point x="164" y="498" type="qcurve" smooth="yes"/>
+      <point x="159" y="489"/>
+      <point x="156" y="458"/>
       <point x="156" y="443" type="qcurve" smooth="yes"/>
       <point x="156" y="-69" type="line" smooth="yes"/>
       <point x="156" y="-83"/>
@@ -46,9 +47,10 @@
       <point x="230" y="64"/>
       <point x="210" y="84"/>
       <point x="210" y="99" type="qcurve" smooth="yes"/>
-      <point x="210" y="780" type="line" smooth="yes"/>
-      <point x="210" y="814"/>
-      <point x="216" y="814" type="qcurve" smooth="yes"/>
+      <point x="210" y="778" type="line" smooth="yes"/>
+      <point x="210" y="793"/>
+      <point x="229" y="814"/>
+      <point x="244" y="814" type="qcurve" smooth="yes"/>
       <point x="479" y="814" type="line" smooth="yes"/>
       <point x="493" y="814"/>
       <point x="514" y="794"/>
@@ -110,10 +112,14 @@
       <point x="696" y="814"/>
       <point x="716" y="794"/>
       <point x="716" y="780" type="qcurve" smooth="yes"/>
-      <point x="716" y="-69" type="line" smooth="yes"/>
-      <point x="716" y="-83"/>
-      <point x="696" y="-104"/>
-      <point x="681" y="-104" type="qcurve" smooth="yes"/>
+      <point x="716" y="1" type="line" smooth="yes"/>
+      <point x="716" y="-15"/>
+      <point x="702" y="-48"/>
+      <point x="691" y="-59" type="qcurve" smooth="yes"/>
+      <point x="671" y="-79" type="line" smooth="yes"/>
+      <point x="660" y="-90"/>
+      <point x="627" y="-104"/>
+      <point x="611" y="-104" type="qcurve" smooth="yes"/>
       <point x="590" y="-104" type="line" smooth="yes"/>
       <point x="576" y="-104"/>
       <point x="554" y="-83"/>

@@ -45,10 +45,14 @@
       <point x="696" y="772"/>
       <point x="716" y="751"/>
       <point x="716" y="736" type="qcurve" smooth="yes"/>
-      <point x="716" y="522" type="line" smooth="yes"/>
-      <point x="716" y="507"/>
-      <point x="696" y="487"/>
-      <point x="681" y="487" type="qcurve" smooth="yes"/>
+      <point x="716" y="592" type="line" smooth="yes"/>
+      <point x="716" y="576"/>
+      <point x="702" y="543"/>
+      <point x="691" y="532" type="qcurve" smooth="yes"/>
+      <point x="671" y="512" type="line" smooth="yes"/>
+      <point x="660" y="501"/>
+      <point x="627" y="487"/>
+      <point x="611" y="487" type="qcurve" smooth="yes"/>
       <point x="458" y="487" type="line" smooth="yes"/>
       <point x="444" y="487"/>
       <point x="423" y="474"/>

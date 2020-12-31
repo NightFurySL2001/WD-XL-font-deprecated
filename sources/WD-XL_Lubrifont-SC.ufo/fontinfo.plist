@@ -31,21 +31,21 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>ideo-top</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>814</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>ideo-btm</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>-104</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>ideo-left</string>
-    <key>x</key>
-    <integer>49</integer>
-    <key>y</key>
-    <integer>0</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -59,13 +59,13 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
   </dict>
   <dict>
     <key>angle</key>
-    <integer>0</integer>
+    <integer>90</integer>
     <key>name</key>
-    <string>ideo-top</string>
+    <string>ideo-left</string>
     <key>x</key>
-    <integer>0</integer>
+    <integer>49</integer>
     <key>y</key>
-    <integer>814</integer>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -111,6 +111,33 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
   <string>WD-XL Lubrifont</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>SC</string>
+  <key>openTypeNameRecords</key>
+  <array>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Alternate X</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>257</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Western punctuation</string>
+  </dict>
+  </array>
   <key>openTypeNameVersion</key>
   <string>Version 1.000; 20201225</string>
   <key>openTypeOS2CodePageRanges</key>

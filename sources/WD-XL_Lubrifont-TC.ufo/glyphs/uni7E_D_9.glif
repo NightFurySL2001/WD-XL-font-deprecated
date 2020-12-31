@@ -93,10 +93,14 @@
       <point x="686" y="297"/>
       <point x="707" y="277"/>
       <point x="707" y="263" type="qcurve" smooth="yes"/>
-      <point x="707" y="-69" type="line" smooth="yes"/>
-      <point x="707" y="-83"/>
-      <point x="686" y="-104"/>
-      <point x="671" y="-104" type="qcurve" smooth="yes"/>
+      <point x="707" y="1" type="line" smooth="yes"/>
+      <point x="707" y="-15"/>
+      <point x="693" y="-48"/>
+      <point x="682" y="-59" type="qcurve" smooth="yes"/>
+      <point x="662" y="-79" type="line" smooth="yes"/>
+      <point x="651" y="-90"/>
+      <point x="618" y="-104"/>
+      <point x="602" y="-104" type="qcurve" smooth="yes"/>
       <point x="321" y="-104" type="line" smooth="yes"/>
       <point x="306" y="-104"/>
       <point x="285" y="-83"/>

@@ -6,13 +6,5 @@
     <string>public.default</string>
     <string>glyphs</string>
   </array>
-  <array>
-    <string>Regular.1</string>
-    <string>glyphs.R_egular.1</string>
-  </array>
-  <array>
-    <string>bckp</string>
-    <string>glyphs.bckp</string>
-  </array>
 </array>
 </plist>

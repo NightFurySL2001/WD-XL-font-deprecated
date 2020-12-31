@@ -4,7 +4,7 @@
   <unicode hex="0231"/>
   <outline>
     <component base="omacron"/>
-    <component base="dotaboverightcomb" xOffset="470" yOffset="-173"/>
+    <component base="dotaboverightcomb" xOffset="469" yOffset="-194"/>
   </outline>
   <lib>
   <dict>

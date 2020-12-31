@@ -7,12 +7,12 @@
       <point x="93" y="-120" type="line" smooth="yes"/>
       <point x="53" y="-120"/>
       <point x="53" y="-80" type="qcurve" smooth="yes"/>
-      <point x="53" y="414" type="line" smooth="yes"/>
-      <point x="53" y="454"/>
-      <point x="93" y="454" type="qcurve" smooth="yes"/>
-      <point x="103" y="454" type="line" smooth="yes"/>
-      <point x="143" y="454"/>
-      <point x="143" y="414" type="qcurve" smooth="yes"/>
+      <point x="53" y="401" type="line" smooth="yes"/>
+      <point x="53" y="441"/>
+      <point x="93" y="441" type="qcurve" smooth="yes"/>
+      <point x="103" y="441" type="line" smooth="yes"/>
+      <point x="143" y="441"/>
+      <point x="143" y="401" type="qcurve" smooth="yes"/>
       <point x="143" y="-80" type="line" smooth="yes"/>
       <point x="143" y="-120"/>
       <point x="103" y="-120" type="qcurve" smooth="yes"/>

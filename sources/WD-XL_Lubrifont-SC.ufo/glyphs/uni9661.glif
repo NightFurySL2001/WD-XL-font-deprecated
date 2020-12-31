@@ -8,10 +8,14 @@
       <point x="277" y="362"/>
       <point x="290" y="329"/>
       <point x="290" y="315" type="qcurve" smooth="yes"/>
-      <point x="290" y="-8" type="line" smooth="yes"/>
-      <point x="290" y="-22"/>
-      <point x="269" y="-42"/>
-      <point x="255" y="-42" type="qcurve" smooth="yes"/>
+      <point x="290" y="63" type="line" smooth="yes"/>
+      <point x="290" y="47"/>
+      <point x="276" y="14"/>
+      <point x="265" y="3" type="qcurve" smooth="yes"/>
+      <point x="245" y="-17" type="line" smooth="yes"/>
+      <point x="234" y="-28"/>
+      <point x="201" y="-42"/>
+      <point x="185" y="-42" type="qcurve" smooth="yes"/>
       <point x="177" y="-42" type="line" smooth="yes"/>
       <point x="162" y="-42"/>
       <point x="142" y="-60"/>

@@ -25,7 +25,7 @@ This font has designed characters needed for [Hanyu Pinyin](https://en.wikipedia
 This feature is turned on automatically, users do not need to set up the setting.  
 本功能將會自動開啓，用戶無需進行設置。
 
-## `ss01` — Stylistic Set 01
+## `ss01` — Stylistic Set 01 (Alternate X)
 
 为了匹配其他字符的设计，因此本龙为该字体设计了另外一款 `X` 的字形 (glyph)。  
 To match with the design of other characters, another glyph is designed for `X`.  
@@ -36,6 +36,17 @@ To match with the design of other characters, another glyph is designed for `X`.
 请用户在软件内查找 `样式集` (Stylistic set) 并选择 `ss01`。  
 Users are required to find “Stylistic set” and turn on `ss01`.  
 請用戶在軟體內查找 `文體集` (Stylistic set) 並選擇 `ss01`。
+
+## `ss18` — Stylistic Set 18 (Western Punctuations)
+
+为了适配西文排版，本字体预留了 `ss18` 以储存西文式标点符号。目前此功能内置放西文省略号（靠下）及间隔号 `U+002D MIDDLE DOT`（比例宽度）。
+The font has reserved `ss18` for Western punctutions. Currently, the Western ellipsis and interpunct (middle dot) is placed in `ss18`.
+爲了適配西文排版，本字型預留了 `ss18` 以存儲西文式標點符號。目前此功能內置放西文省略號（靠下）及間隔號 `U+002D MIDDLE DOT`（比例寬度）。
+
+## `ss19` — Stylistic Set 19 (Cornered/SC Punctuation)
+## `ss20` — Stylistic Set 20 (Centered/TC Punctuation)
+
+待更新 To be updated.
 
 ## `liga` — Ligatures
 
@@ -55,14 +66,20 @@ Users are required to find turn on “Standard ligatures”.
 
 ## `dlig` — Discretionary Ligatures
 
-本字体也准备了汉语拼音内的 `ng` 缩写 Ŋ `U+014A LATIN CAPITAL LETTER ENG` 及 ŋ `U+014B LATIN SMALL LETTER ENG`，但因为避免与其他语言相撞，因此将其设置于 `dlig` 内：  
+本字体也准备了汉语拼音内的多项缩写，如 `ng` - ŋ `U+014B LATIN SMALL LETTER ENG`，`zh` - ẑ `U+1E91 LATIN SMALL LETTER Z WITH CIRCUMFLEX` 等，但因为避免与其他语言相撞，因此将其设置于 `dlig` 内：  
 This font also prepared the short hand form of `ng`, Ŋ `U+014A LATIN CAPITAL LETTER ENG` ang ŋ `U+014B LATIN SMALL LETTER ENG`, but to avoid collision with other languages, the features are set up in discretionary ligatures:  
-本字型也準備了漢語拼音內的 `ng` 縮寫 Ŋ `U+014A LATIN CAPITAL LETTER ENG` 及 ŋ `U+014B LATIN SMALL LETTER ENG`，但因爲避免與其他語言相撞，因此將其設置於 `dlig` 內：
+本字型也準備了漢語拼音內的多項縮寫，如 `ng` - ŋ `U+014B LATIN SMALL LETTER ENG`，`zh` - ẑ `U+1E91 LATIN SMALL LETTER Z WITH CIRCUMFLEX` 等，但因爲避免與其他語言相撞，因此將其設置於 `dlig` 內：
 
 | 字符 Character | 组合 Combination 組合 |
 | --- | :-- |
 | Ŋ `U+014A LATIN CAPITAL LETTER ENG` | NG |
 | ŋ `U+014B LATIN SMALL LETTER ENG` | ng |
+| Ẑ `U+1E90 LATIN CAPITAL LETTER Z WITH CIRCUMFLEX` | ZH/Zh |
+| ẑ `U+1E91 LATIN SMALL LETTER Z WITH CIRCUMFLEX` | zh |
+| Ĉ `U+0108 LATIN CAPITAL LETTER C WITH CIRCUMFLEX` | CH/Ch |
+| ĉ `U+0109 LATIN SMALL LETTER C WITH CIRCUMFLEX` | ch |
+| Ŝ `U+015C LATIN CAPITAL LETTER S WITH CIRCUMFLEX` | SH/Sh |
+| ŝ `U+015D LATIN SMALL LETTER S WITH CIRCUMFLEX` | sh |
 
 请用户在软件内查找并启动 `历史和任意连字` (Historical and discretionary ligatures) 功能。  
 Users are required to find turn on “Historical and discretionary ligatures”.  
