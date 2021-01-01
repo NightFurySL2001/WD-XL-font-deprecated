@@ -31,21 +31,21 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
-    <string>ideo-top</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>814</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
     <string>ideo-btm</string>
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
     <integer>-104</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>ideo-left</string>
+    <key>x</key>
+    <integer>49</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -59,17 +59,17 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
   </dict>
   <dict>
     <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>ideo-left</string>
-    <key>x</key>
-    <integer>49</integer>
-    <key>y</key>
     <integer>0</integer>
+    <key>name</key>
+    <string>ideo-top</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>814</integer>
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -85,7 +85,7 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2020/12/25 00:00:54</string>
+  <string>2021/01/01 21:00:06</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -139,7 +139,7 @@ WD-XL Lubrifont is licensed under the SIL Open Font License, Version 1.1. The li
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000; 20201225</string>
+  <string>Version 1.100; 20210101</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>

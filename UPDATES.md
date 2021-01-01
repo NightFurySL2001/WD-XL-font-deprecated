@@ -2,6 +2,31 @@
 
 # 更新日志 Updates 更新日誌
 
+## Ver 1.110; 20210101
+
+- <details>
+    <summary>新增 1 汉字<br>新增 1 漢字</summary>
+    <p>
+
+    - `廐`
+
+    </p>
+</details>
+
+- <details>
+    <summary>修补 6 汉字<br>修补 6 漢字</summary>
+    <p>
+
+    - `廄舉擧譽櫸遺`
+
+    </p>
+</details>
+
+- 修改漏网之鱼  
+修改漏網之魚
+
+- 更新部分 OpenType 功能 (`smpl`, `trad`)
+
 ## Ver 1.100; 20201231
 
 - <details>

@@ -67,7 +67,7 @@ feature trad {
     sub uni5395 from [uni5EC1 uni53A0 ];
     sub uni5398 from [uni5398 uni91D0 ];
     sub uni53A8 from [uni5EDA ];
-    sub uni53A9 from [uni5EC4 ];
+    sub uni53A9 from [uni5EC4 uni5ED0 ];
     sub uni53C2 from [uni53C3 uni8518 ];
     sub uni53D1 from [uni767C uni9AEE ];
     sub uni53D9 from [uni6558 uni654D ];
@@ -144,7 +144,7 @@ feature trad {
     sub uni5FD7 from [uni5FD7 uni8A8C ];
     sub uni5FF5 from [uni5FF5 uni5538 ];
     sub uni6064 from [uni6064 uni5379 ];
-    sub uni6076 from [uni60E1 ];
+    sub uni6076 from [uni60E1 uni5641 ];
     sub uni60AB from [uni6164 ];
     sub uni60EC from [uni611C ];
     sub uni60ED from [uni615A ];
@@ -1189,6 +1189,7 @@ feature trad {
     sub uni7BAB by uni7C2B ;
     sub uni7BD1 by uni7C23 ;
     sub uni7BD3 by uni7C0D ;
+    sub uni7BE1 by uni7C12 ;
     sub uni7BEE by uni7C43 ;
     sub uni7BF1 by uni7C6C ;
     sub uni7C16 by uni7C6A ;
@@ -2390,4 +2391,5 @@ feature trad {
     sub uni9F9A by uni9F94 ;
     sub uni9F9B by uni9F95 ;
     sub uni9F9F by uni9F9C ;
+    sub uni2BAC7 by uni5641 ;
 } trad;

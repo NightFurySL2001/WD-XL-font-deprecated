@@ -1,4 +1,4 @@
-feature simp{
+feature smpl{
 # Simplified forms
 
     sub uni4E48 from [uni5E7A ];
@@ -2546,4 +2546,4 @@ feature simp{
     sub uni7DDA by uni7EBF ;
     sub uni95A4 by uni5408 ;
     sub uni9858 by uni613F ;
-}simp;
+}smpl;
