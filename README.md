@@ -5,6 +5,13 @@ This is the public repository for **WD-XL Librifont**. Source files and history 
 此爲 **WD-XL 滑油字** 的公開倉庫。在此提供源文件及歷史記錄。
 
 
+## 通知 ANNOUNCEMENT
+
+基于技术原因，本仓库将从 2020 年 2 月 12 日 **停止更新** 。本人将以新的同名仓库替换本仓库；现有链接 *应该* 会在完成更新后自动导向新仓库。如有不便，敬请见谅。  
+Due to technical issues, this repo will **not be updated** after 2021/2/12. A new repo will be created and replace this repo with the same name; all links *should* be stable after the replacement is done. Sorry for inconvenience.  
+基於技術原因，本倉庫將從 2020 年 2 月 12 日 **停止更新** 。本人將以新的同名倉庫替換本倉庫；現有鏈接 *應該* 會在完成更新后自動導向新倉庫。如有不便，敬請見諒。
+
+
 ## 目标 Target 目標
 
 本字体是在[站酷庆科黄油体](https://www.github.com/googlefonts/zcool-qingke-huangyou)的基础上为繁体（正体）中文进行补字扩充，让其能够适配繁体（正体）中文环境，并且也补全标准中文字体所需的标点符号和功能。目前已经补充至五大码 (Big5) 5401 字，完整支援台湾教育部常用汉字表 4808 字。  
