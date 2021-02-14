@@ -1,6 +1,6 @@
 # WD-XL 滑油字 | WD-XL Lubrifont
 
-#[**新仓库链接／NEW REPOSITORY LINK／新倉庫鏈接**](https://github.com/NightFurySL2001/WD-XL-font)
+# [**新仓库链接／NEW REPOSITORY LINK／新倉庫鏈接**](https://github.com/NightFurySL2001/WD-XL-font)
 
 [**点击我去新仓库／CLICK ME TO GO TO NEW REPOSITORY／點擊我去新倉庫**](https://github.com/NightFurySL2001/WD-XL-font)
 
