@@ -1,8 +1,12 @@
 # WD-XL 滑油字 | WD-XL Lubrifont
 
-此为 **WD-XL 滑油字** 的公开仓库。在此提供源文件及历史记录。  
-This is the public repository for **WD-XL Librifont**. Source files and history records are recorded here.  
-此爲 **WD-XL 滑油字** 的公開倉庫。在此提供源文件及歷史記錄。
+#[**新仓库链接／NEW REPOSITORY LINK／新倉庫鏈接**](https://github.com/NightFurySL2001/WD-XL-font)
+
+[**点击我去新仓库／CLICK ME TO GO TO NEW REPOSITORY／點擊我去新倉庫**](https://github.com/NightFurySL2001/WD-XL-font)
+
+此为 **WD-XL 滑油字** 的旧公开仓库。在此提供源文件及历史记录。  
+This is the old public repository for **WD-XL Librifont**. Source files and history records are recorded here.  
+此爲 **WD-XL 滑油字** 的舊公開倉庫。在此提供源文件及歷史記錄。
 
 
 ## 通知 ANNOUNCEMENT
